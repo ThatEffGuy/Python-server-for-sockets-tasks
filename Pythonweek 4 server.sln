@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pythonweek 4 server", "Pythonweek 4 server\Pythonweek 4 server.pyproj", "{565997DB-CAC9-45F6-B97B-0DA31955DDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565997DB-CAC9-45F6-B97B-0DA31955DDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565997DB-CAC9-45F6-B97B-0DA31955DDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6EBC46E-F2CC-4E86-ABD1-D20BD6A61EF7}
+	EndGlobalSection
+EndGlobal
